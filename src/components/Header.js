@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = ({ connectToMetamask, account }) => {
     return (
-        <header class="d-flex justify-content-end">
+        <header className="d-flex justify-content-end p-4">
             {account ?
                 <div className="py-2 text-white fs-5">connected</div> :
                 <button

@@ -6,7 +6,7 @@ import paper from "../assets/paper.png";
 import scissors from "../assets/scissors.png";
 function Game({ playerChoice, setPlayerChoice, setBetAmount}) {
     return (
-        <div class="d-flex flex-column align-items-center">
+        <div className="d-flex flex-column align-items-center">
             <div>
                 <input
                     className="form-control border-0 shadow-none mb-3"
