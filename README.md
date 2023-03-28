@@ -12,11 +12,7 @@
 This is a simple implementation of the classic game Rock Paper Scissors using Web 3.0 technologies. 
 The project was developed by the Crypto Titans team as part of the ZeroToHero bootcamp.
 
-### Built With
-
-
-
-### Installation
+### Installation and Running
 
    ```sh
    npm install && npm start
